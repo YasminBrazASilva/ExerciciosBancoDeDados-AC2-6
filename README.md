@@ -12,7 +12,7 @@ Transforme o modelo conceitual em modelo lógico<br>
 
 ### ETAPA 2:
 Escreva o script SQL que cria o banco de dados<br>
-A criação da tabela pode ser vista em: [Exercicio6_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-6/blob/main/Exercicio6_2.sql)
+A criação das tabelas pode ser vista em: [Exercicio6_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-6/blob/main/Exercicio6_2.sql)
 
 ![ExercicioTela6_2_2.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-6/blob/main/ExercicioTela6_2_2.png)
 ![ExercicioTela6_2_3.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-6/blob/main/ExercicioTela6_2_3.png)
