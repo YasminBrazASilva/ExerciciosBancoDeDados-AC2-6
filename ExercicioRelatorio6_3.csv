@@ -1,0 +1,9 @@
+id,sabor,preco,descricao,tamanho,embalagem_material,embalagem_tamanho,embalagem_preco,receita_id,pizzaiolos
+1,Calabresa,29.99,"Pizza de calabresa com cebola e molho de tomate.",Média,Papelão,Média,1.50,101,"João Silva,Maria Santos,Carlos Mendes"
+2,Mussarela,27.50,"Pizza de mussarela com molho de tomate e azeitonas.",Grande,Papelão,Grande,2.00,102,"Maria Santos"
+3,"Frango Catupiry",31.99,"Pizza de frango com catupiry e milho.",Média,Papelão,Média,1.75,103,"Carlos Mendes"
+4,Margherita,28.75,"Pizza margherita com molho de tomate, mussarela e manjericão.",Grande,Papelão,Grande,2.25,104,"João Silva"
+5,Pepperoni,30.25,"Pizza de pepperoni com molho de tomate e queijo cheddar.",Média,Papelão,Média,1.90,105,"Maria Santos"
+6,"Quatro Queijos",32.50,"Pizza quatro queijos com molho branco e parmesão.",Grande,Papelão,Grande,2.50,106,"Carlos Mendes"
+7,Vegetariana,29.99,"Pizza vegetariana com molho de tomate e diversos legumes.",Média,Papelão,Média,1.75,107,"Maria Santos,Carlos Mendes"
+8,Portuguesa,31.50,"Pizza portuguesa com molho de tomate, presunto, ovos e azeitonas.",Grande,Papelão,Grande,2.25,108,"Maria Santos"

@@ -1,0 +1,20 @@
+id,ingrediente,pizzas
+1,"Molho de Tomate","Calabresa,Mussarela,Margherita,Pepperoni,Vegetariana,Portuguesa"
+2,"Queijo Mussarela","Mussarela,Margherita,Quatro Queijos"
+3,Calabresa,Calabresa
+4,Cebola,Calabresa
+5,Azeitonas,Mussarela
+6,Frango,"Frango Catupiry"
+7,Catupiry,"Frango Catupiry"
+8,Milho,"Frango Catupiry"
+9,Manjericão,Margherita
+10,Pepperoni,Pepperoni
+11,"Queijo Cheddar","Pepperoni,Quatro Queijos"
+12,"Queijo Parmesão","Quatro Queijos"
+13,"Legumes Variados",Vegetariana
+14,Presunto,Portuguesa
+15,Ovos,Portuguesa
+16,Azeitona,"Mussarela,Portuguesa"
+17,"Molho branco","Quatro Queijos"
+18,Abacaxi,NULL
+19,"Queijo Minas","Quatro Queijos"
